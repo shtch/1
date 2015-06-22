@@ -1,8 +1,8 @@
 <?xml version='1.0' encoding='utf-8'?>
-<widget id="my.first.app" version="1.0.0">
-  <name>HelloWorld</name>
+<widget id="mit.nurse.app" version="1.0.0">
+  <name>Движение</name>
   <description>
-    A sample Tabris.js application.
+    Мобильное приложение.
   </description>
   <author email="dev@tabrisjs.com" href="https://tabrisjs.com">
     Tabris.js Team
