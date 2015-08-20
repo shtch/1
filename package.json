@@ -1,1 +1,8 @@
-
+{
+  "name": "123-world",
+  "description": "Tabris.js - 123, World!",
+  "main": "main.js",
+  "dependencies": {
+    "tabris": "^1.1.0"
+  }
+}
